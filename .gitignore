@@ -1,0 +1,5 @@
+node_modules
+session_pair
+vip_db.json
+.env
+*.log
