@@ -1,0 +1,14 @@
+{
+  "name": "wad-salha-vip-bot",
+  "version": "2.0.0",
+  "description": "WAD SALHA VIP ULTRA - 17 قسم شغالة 100%",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "axios": "^1.0.0"
+  }
+}
